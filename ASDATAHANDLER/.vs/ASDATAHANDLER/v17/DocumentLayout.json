@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adria\\source\\repos\\ASDATAHANDLER\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BFA1E8-87DD-495A-AACB-721A422BC964}|ASDATAHANDLER\\ASDATAHANDLER.csproj|c:\\users\\adria\\source\\repos\\asdatahandler\\asdatahandler\\asdatahandler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E6BFA1E8-87DD-495A-AACB-721A422BC964}|ASDATAHANDLER\\ASDATAHANDLER.csproj|solutionrelative:asdatahandler\\asdatahandler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BFA1E8-87DD-495A-AACB-721A422BC964}|ASDATAHANDLER\\ASDATAHANDLER.csproj|c:\\users\\adria\\source\\repos\\asdatahandler\\asdatahandler\\utils\\jsonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6BFA1E8-87DD-495A-AACB-721A422BC964}|ASDATAHANDLER\\ASDATAHANDLER.csproj|solutionrelative:asdatahandler\\utils\\jsonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BFA1E8-87DD-495A-AACB-721A422BC964}|ASDATAHANDLER\\ASDATAHANDLER.csproj|c:\\users\\adria\\source\\repos\\asdatahandler\\asdatahandler\\services\\csv.services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6BFA1E8-87DD-495A-AACB-721A422BC964}|ASDATAHANDLER\\ASDATAHANDLER.csproj|solutionrelative:asdatahandler\\services\\csv.services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BFA1E8-87DD-495A-AACB-721A422BC964}|ASDATAHANDLER\\ASDATAHANDLER.csproj|c:\\users\\adria\\source\\repos\\asdatahandler\\asdatahandler\\models\\csv.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6BFA1E8-87DD-495A-AACB-721A422BC964}|ASDATAHANDLER\\ASDATAHANDLER.csproj|solutionrelative:asdatahandler\\models\\csv.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BFA1E8-87DD-495A-AACB-721A422BC964}|ASDATAHANDLER\\ASDATAHANDLER.csproj|c:\\users\\adria\\source\\repos\\asdatahandler\\asdatahandler\\utils\\bulkdataloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6BFA1E8-87DD-495A-AACB-721A422BC964}|ASDATAHANDLER\\ASDATAHANDLER.csproj|solutionrelative:asdatahandler\\utils\\bulkdataloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BFA1E8-87DD-495A-AACB-721A422BC964}|ASDATAHANDLER\\ASDATAHANDLER.csproj|c:\\users\\adria\\source\\repos\\asdatahandler\\asdatahandler\\utils\\myfileshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6BFA1E8-87DD-495A-AACB-721A422BC964}|ASDATAHANDLER\\ASDATAHANDLER.csproj|solutionrelative:asdatahandler\\utils\\myfileshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BFA1E8-87DD-495A-AACB-721A422BC964}|ASDATAHANDLER\\ASDATAHANDLER.csproj|c:\\users\\adria\\source\\repos\\asdatahandler\\asdatahandler\\utils\\sqlenginer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6BFA1E8-87DD-495A-AACB-721A422BC964}|ASDATAHANDLER\\ASDATAHANDLER.csproj|solutionrelative:asdatahandler\\utils\\sqlenginer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BulkDataLoader.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\ASDATAHANDLER\\ASDATAHANDLER\\Utils\\BulkDataLoader.cs",
+              "RelativeDocumentMoniker": "ASDATAHANDLER\\Utils\\BulkDataLoader.cs",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\ASDATAHANDLER\\ASDATAHANDLER\\Utils\\BulkDataLoader.cs",
+              "RelativeToolTip": "ASDATAHANDLER\\Utils\\BulkDataLoader.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:01:43.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Jsonhandler.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\ASDATAHANDLER\\ASDATAHANDLER\\Utils\\Jsonhandler.cs",
+              "RelativeDocumentMoniker": "ASDATAHANDLER\\Utils\\Jsonhandler.cs",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\ASDATAHANDLER\\ASDATAHANDLER\\Utils\\Jsonhandler.cs",
+              "RelativeToolTip": "ASDATAHANDLER\\Utils\\Jsonhandler.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T03:40:56.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "csv.services.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\ASDATAHANDLER\\ASDATAHANDLER\\Services\\csv.services.cs",
+              "RelativeDocumentMoniker": "ASDATAHANDLER\\Services\\csv.services.cs",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\ASDATAHANDLER\\ASDATAHANDLER\\Services\\csv.services.cs",
+              "RelativeToolTip": "ASDATAHANDLER\\Services\\csv.services.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAAAJAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T15:25:32.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "csv.model.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\ASDATAHANDLER\\ASDATAHANDLER\\Models\\csv.model.cs",
+              "RelativeDocumentMoniker": "ASDATAHANDLER\\Models\\csv.model.cs",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\ASDATAHANDLER\\ASDATAHANDLER\\Models\\csv.model.cs",
+              "RelativeToolTip": "ASDATAHANDLER\\Models\\csv.model.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T15:32:40.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ASDATAHANDLER",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\ASDATAHANDLER\\ASDATAHANDLER\\ASDATAHANDLER.csproj",
+              "RelativeDocumentMoniker": "ASDATAHANDLER\\ASDATAHANDLER.csproj",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\ASDATAHANDLER\\ASDATAHANDLER\\ASDATAHANDLER.csproj",
+              "RelativeToolTip": "ASDATAHANDLER\\ASDATAHANDLER.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-03T15:22:38.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Myfileshelper.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\ASDATAHANDLER\\ASDATAHANDLER\\Utils\\Myfileshelper.cs",
+              "RelativeDocumentMoniker": "ASDATAHANDLER\\Utils\\Myfileshelper.cs",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\ASDATAHANDLER\\ASDATAHANDLER\\Utils\\Myfileshelper.cs",
+              "RelativeToolTip": "ASDATAHANDLER\\Utils\\Myfileshelper.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T04:00:08.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SqlEnginer.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\ASDATAHANDLER\\ASDATAHANDLER\\Utils\\SqlEnginer.cs",
+              "RelativeDocumentMoniker": "ASDATAHANDLER\\Utils\\SqlEnginer.cs",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\ASDATAHANDLER\\ASDATAHANDLER\\Utils\\SqlEnginer.cs",
+              "RelativeToolTip": "ASDATAHANDLER\\Utils\\SqlEnginer.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAuwJoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T04:00:21.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

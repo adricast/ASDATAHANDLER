@@ -1,0 +1,11 @@
+C:\Users\adria\source\repos\ASDATAHANDLER\ASDATAHANDLER\bin\Debug\net8.0\ASDATAHANDLER.deps.json
+C:\Users\adria\source\repos\ASDATAHANDLER\ASDATAHANDLER\bin\Debug\net8.0\ASDATAHANDLER.dll
+C:\Users\adria\source\repos\ASDATAHANDLER\ASDATAHANDLER\bin\Debug\net8.0\ASDATAHANDLER.pdb
+C:\Users\adria\source\repos\ASDATAHANDLER\ASDATAHANDLER\obj\Debug\net8.0\ASDATAHANDLER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\source\repos\ASDATAHANDLER\ASDATAHANDLER\obj\Debug\net8.0\ASDATAHANDLER.AssemblyInfoInputs.cache
+C:\Users\adria\source\repos\ASDATAHANDLER\ASDATAHANDLER\obj\Debug\net8.0\ASDATAHANDLER.AssemblyInfo.cs
+C:\Users\adria\source\repos\ASDATAHANDLER\ASDATAHANDLER\obj\Debug\net8.0\ASDATAHANDLER.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\ASDATAHANDLER\ASDATAHANDLER\obj\Debug\net8.0\ASDATAHANDLER.dll
+C:\Users\adria\source\repos\ASDATAHANDLER\ASDATAHANDLER\obj\Debug\net8.0\refint\ASDATAHANDLER.dll
+C:\Users\adria\source\repos\ASDATAHANDLER\ASDATAHANDLER\obj\Debug\net8.0\ASDATAHANDLER.pdb
+C:\Users\adria\source\repos\ASDATAHANDLER\ASDATAHANDLER\obj\Debug\net8.0\ref\ASDATAHANDLER.dll
